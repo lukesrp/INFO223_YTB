@@ -23,6 +23,14 @@ access to a computer as well as spreadsheet software.
 
 Inventory (luke)
 
+Inventory management system:
+Requirements:
+1.	Send alert when inventory requires restocking.
+2.	Send alert when inventory is approaching expiry.
+3.	Send alert when inventory requires maintenance or approaching expiry on warrant of fitness / registration.
+4.	A recording system of petrol and oil purchases, registration and warrant of fitness, insurance, mileage, repairs and maintenance.
+5.	Product, equipment and machine descriptions.
+
 Website (njm)
 
 Vehicle Management System (jfr)
